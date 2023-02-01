@@ -1,2 +1,0 @@
-# php-joern-test
-test
